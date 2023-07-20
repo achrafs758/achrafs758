@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @achrafs758
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking for an internship
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
